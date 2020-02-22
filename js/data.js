@@ -12,7 +12,7 @@ const data = {
           team: ["Gillian", "Pat", "Ayub"],
           github: "https://github.com/fac18/chatti",
           description:
-            "An app that helps busy parents engage in quality time with their young children by suggesting fun and quick activities to do, which are targeted at children's early stages development goals."
+            "An app that helps busy parents engage in quality time with their young children by suggesting fun and quick activities to do, which are targeted at children's early stages development goals"
         },
         {
           title: "Joy",
@@ -20,7 +20,7 @@ const data = {
           team: ["Rosa", "Nikke", "Maria", "Roshan"],
           github: "https://github.com/fac18/joy",
           description:
-            "Tool which allows you to track which clients you have referred to which services, and query the database to create a dashboard of key metrics on these services and their impact on wellbeing."
+            "Tool which allows you to track which clients you have referred to which services, and query the database to create a dashboard of key metrics on these services and their impact on wellbeing"
         },
         {
           title: "Safe Space",
@@ -28,7 +28,7 @@ const data = {
           team: ["Beth", "Reda", "Dan", "Alex"],
           github: "https://github.com/fac18/safe-space",
           description:
-            "A site to make it easier for people in the industry (especially freelance musicians) to report incidents of sexual abuse or harassment at work."
+            "A site to make it easier for people in the industry (especially freelance musicians) to report incidents of sexual abuse or harassment at work"
         },
         {
           title: "Gateway 2 Heritage",
@@ -36,7 +36,7 @@ const data = {
           team: ["Reggie", "Kin", "Jamie", "Renata"],
           github: "https://github.com/fac18/t4b-g2h",
           description:
-            "Platform that offers the heritage sector the opportunity to promote their collections to a wider audience for commercial licensing whilst providing a space for intra-sector communication."
+            "Platform that offers the heritage sector the opportunity to promote their collections to a wider audience for commercial licensing whilst providing a space for intra-sector communication"
         }
       ]
     },
