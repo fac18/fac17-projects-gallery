@@ -28,7 +28,7 @@ const data = {
           team: ["Beth", "Reda", "Dan", "Alex"],
           github: "https://github.com/fac18/safe-space",
           description:
-            "A site to make it easier for people in the industry (especially freelance musicians) to report incidents of sexual abuse or harassment at work"
+            "A site built for the Musician's Union to make it easier for musicians to report incidents of sexual abuse or harassment at work"
         },
         {
           title: "Gateway 2 Heritage",
@@ -71,7 +71,7 @@ const data = {
           img: "assets/wk12-recycling.png",
           team: ["Reda", "Ayub", "Jamie", "Roshan"],
           github: "https://github.com/fac18/recycling-game",
-          description: "Recycling game for kids"
+          description: "A tablet drag and drop game to teach 3-6 year-olds about recycling"
         }
       ]
     },
